@@ -27,7 +27,7 @@ In this [repository](https://github.com/Artisense-ai/libartipy), you will find a
 Each `relocalizationFile_recording_source_to_recording_target.txt` contains a list of first the keyframe from the source (reference) sequence and the query keyframe. 
 The task is to provide the relative pose between the source and the query frame. 
 Note that the relative pose is from cam0 of the reference sequence to cam0 of the query sequence, respectively. 
-The 6DOF poses are specified as translation (t_x, t_y, t_z), and quaternion (q_x, q_y, q_z, q_w).
+The `6DOF` poses are specified as translation `(t_x, t_y, t_z)`, and quaternion `(q_x, q_y, q_z, q_w)`.
 
 ## Submission
 The ground truth is withheld for the test sequences.
