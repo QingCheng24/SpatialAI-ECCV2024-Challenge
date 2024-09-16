@@ -2,7 +2,7 @@
 
 ## Introduction
 Our ECCV2024 workshop [SpatialAI](https://sites.google.com/view/spatial-ai-eccv24/home?authuser=0) opens a localization challenge.
-We provide three different scenarios, each consisting of a reference map and a query sequence from the [4Seasons dataset](https://www.4seasons-dataset.com/)
+We provide three different scenarios, each consisting of a reference map and a query sequence from the [4Seasons dataset](https://cvg.cit.tum.de/data/datasets/4seasons-dataset)
 
 
 | scenarios       | reference map sequence              | query sequence                  |
@@ -12,7 +12,7 @@ We provide three different scenarios, each consisting of a reference map and a q
 | countryside     | `recording_2020-06-12_11-26-43` | `recording_2021-01-07_14-03-57` |
   
  
-Each reference map contains highly accurate reference poses. All sequences from the [4Seasons dataset](https://www.4seasons-dataset.com/) can be used as training data.
+Each reference map contains highly accurate reference poses. All sequences from the [4Seasons dataset](https://cvg.cit.tum.de/data/datasets/4seasons-dataset) can be used as training data.
 
 ## Dataset Download
 ### Reference map sequences 
@@ -59,7 +59,7 @@ Each reference map contains highly accurate reference poses. All sequences from 
 
 
 ## Dataset Structure
-For details on the dataset structure, we refer to the following [documentation](https://www.4seasons-dataset.com/documentation).
+For details on the dataset structure, we refer to the following [documentation](https://github.com/pmwenzel/mlad-eccv2020).
 
 ## Libartipy Python Library
 In this [repository](https://github.com/Artisense-ai/libartipy), you will find a set of tools for working with the 4Seasons dataset.
