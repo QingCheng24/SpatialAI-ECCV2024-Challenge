@@ -78,9 +78,9 @@ The file format should be a text file containing one re-localization pair per li
 `source_kf_id target_kf_id t_x t_y t_z q_x q_y q_z q_w`
 
 To submit your results, you will have to send an email with a single zip file which contains the re-localization results for the 3 provided files.
-Send to: spatialai-eccv2024@googlegroups.com.
+Send to: spatialai.eccv2024@gmail.com.
 
 ## Deadlines
 Challenge deadline: Extended to 24:00 (CEST) Nov. 30, 2024
 
-For questions, please send an email to: spatialai-eccv2024@googlegroups.com.
+For questions, please send an email to: spatialai.eccv2024@gmail.com.
